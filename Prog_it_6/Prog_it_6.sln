@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog_it_6", "Prog_it_6\Prog_it_6.csproj", "{B21675E1-45BC-4E6A-978B-5DB064B3BB51}"
+	ProjectSection(ProjectDependencies) = postProject
+		{24B330B4-19CA-4550-8C5B-B94C825B9759} = {24B330B4-19CA-4550-8C5B-B94C825B9759}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog_it_6_Lib", "TelephoneLib\Prog_it_6_Lib.csproj", "{24B330B4-19CA-4550-8C5B-B94C825B9759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21675E1-45BC-4E6A-978B-5DB064B3BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21675E1-45BC-4E6A-978B-5DB064B3BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21675E1-45BC-4E6A-978B-5DB064B3BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21675E1-45BC-4E6A-978B-5DB064B3BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B330B4-19CA-4550-8C5B-B94C825B9759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B330B4-19CA-4550-8C5B-B94C825B9759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B330B4-19CA-4550-8C5B-B94C825B9759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B330B4-19CA-4550-8C5B-B94C825B9759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51698EAB-393F-4605-9396-7375F35F8B44}
+	EndGlobalSection
+EndGlobal
