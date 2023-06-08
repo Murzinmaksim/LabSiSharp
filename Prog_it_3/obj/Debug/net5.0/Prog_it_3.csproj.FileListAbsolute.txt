@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.exe
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.deps.json
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.runtimeconfig.json
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.runtimeconfig.dev.json
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.dll
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\ref\Prog_it_3.dll
+C:\Users\user\source\repos\Prog_it_3\bin\Debug\net5.0\Prog_it_3.pdb
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.AssemblyInfo.cs
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.dll
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\ref\Prog_it_3.dll
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.pdb
+C:\Users\user\source\repos\Prog_it_3\obj\Debug\net5.0\Prog_it_3.genruntimeconfig.cache

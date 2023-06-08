@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.AssemblyInfo.cs
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.exe
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.deps.json
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.runtimeconfig.json
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.runtimeconfig.dev.json
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.dll
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\ref\Prog_it_5.dll
+C:\Users\user\source\repos\Prog_it_5\bin\Debug\net5.0\Prog_it_5.pdb
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.dll
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\ref\Prog_it_5.dll
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.pdb
+C:\Users\user\source\repos\Prog_it_5\obj\Debug\net5.0\Prog_it_5.genruntimeconfig.cache
